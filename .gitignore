@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# AI Model
+detection/model.pkl
+
+# VS Code
+.vscode/
+
+# Traffic Logs
+data/*.csv
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Virtual Environment
+venv/
+.env

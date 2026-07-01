@@ -1,0 +1,7 @@
+scapy
+pandas
+scikit-learn
+rich
+pyfiglet
+joblib
+numpy
