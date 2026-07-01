@@ -1,0 +1,9 @@
+time,src_ip,attack_type,description
+14:17:59,10.55.122.116,AI Anomaly,Unusual traffic pattern
+14:18:02,10.55.122.116,AI Anomaly,Unusual traffic pattern
+14:18:05,10.55.122.116,AI Anomaly,Unusual traffic pattern
+14:18:09,10.55.122.116,AI Anomaly,Unusual traffic pattern
+14:18:12,10.55.122.116,AI Anomaly,Unusual traffic pattern
+14:18:16,10.55.122.116,AI Anomaly,Unusual traffic pattern
+14:34:47,140.82.113.22,AI Anomaly,Unusual traffic pattern
+14:34:52,140.82.113.22,AI Anomaly,Unusual traffic pattern
